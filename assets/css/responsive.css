@@ -43,3 +43,17 @@
         height: 1260px;
     }
 }
+.about .section-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+}
+.col-3.portfolio-item.filter-app {
+    padding: 2px;
+}
+.row.portfolio-container.aos-init.aos-animate {
+    padding: 0 10px;
+}
