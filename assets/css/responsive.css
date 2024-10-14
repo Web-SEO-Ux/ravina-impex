@@ -63,3 +63,7 @@ body p {
 .about .content ul li {
     text-align: justify;
 }
+.align-center {
+    display: flex;
+    align-items: center;
+}
